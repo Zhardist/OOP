@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hello-ide/Hello-ide.iml" filepath="$PROJECT_DIR$/Hello-ide/Hello-ide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloDebugger/HelloDebugger.iml" filepath="$PROJECT_DIR$/HelloDebugger/HelloDebugger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IEEE/IEEE.iml" filepath="$PROJECT_DIR$/IEEE/IEEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IEEE_Mult/IEEE_Mult.iml" filepath="$PROJECT_DIR$/IEEE_Mult/IEEE_Mult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IEEE_add/IEEE_add.iml" filepath="$PROJECT_DIR$/IEEE_add/IEEE_add.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sandbox/Sandbox.iml" filepath="$PROJECT_DIR$/Sandbox/Sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestOutput/TestOutput.iml" filepath="$PROJECT_DIR$/TestOutput/TestOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariableScoping/VariableScoping.iml" filepath="$PROJECT_DIR$/VariableScoping/VariableScoping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tmp.iml" filepath="$PROJECT_DIR$/.idea/tmp.iml" />
+    </modules>
+  </component>
+</project>
